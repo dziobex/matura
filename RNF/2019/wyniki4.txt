@@ -1,0 +1,12 @@
+1: 18
+
+2:
+2
+145
+1
+40585
+
+3:
+pierwsza liczba ciagu: 31968
+dlugosc: 150
+nwd: 74
