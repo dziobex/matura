@@ -1,0 +1,13 @@
+1:
+(256;8)
+(200;400)
+liczba pkt nalezacych do wnetrza kola: 7852
+
+2:
+pierwsze 1000 pkt: 3.228
+pierwsze 5000 pkt: 3.1656
+wszystkie pkt: 3.1416
+
+3:
+1000: 0.0864
+1700: 0.0184
