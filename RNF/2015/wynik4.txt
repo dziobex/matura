@@ -1,0 +1,3 @@
+1: 422
+2: podzielne przez 2: 500, podzielne przez 8: 123
+3: liczba min znajduje sie w linii: 859, a max: 925
