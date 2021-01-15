@@ -1,0 +1,12 @@
+1:
+liczba napisow pierwszych: 122
+2:
+napisy rosnace: FHJLMU BEJNOSY MNS AEIOUY BDL JT BJQR AHJS FHJLMU DIT CEGKZ BCV CEGIKOT CEGKZ 
+3:
+napisy powtarzajace sie:
+BZYFFLOICLUNWLTH
+CEGKZ
+FHJLMU
+GC
+QULA
+SWIFT

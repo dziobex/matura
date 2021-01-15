@@ -1,0 +1,8 @@
+1:
+liczby, ktorych pierwsza cyfra jest rowna ostatniej: 447
+2:
+liczby, ktore w systemie dec spelniaja warunek poprzedniego zadania: 324
+3:
+liczba liczb: 49
+min: 24(8)
+max: 1133357(8)

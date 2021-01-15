@@ -1,0 +1,9 @@
+1:
+liczba liczb dwu-cyklicznych: 18
+max liczba: 00100101100011100010010110001110 o dlugosci: 32
+2:
+nliczba liczb niepoprawnych: 359
+min dlugosc niepoprawnej liczby: 4
+3:
+max liczba w bin: 1101011001100101
+w dec: 54885

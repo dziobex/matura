@@ -1,0 +1,3 @@
+1. parzyste: 497
+2. max liczba: 1111101111110110(2) = 64502(10)
+3. suma liczb o dlugosci 9: 1001100111110111(2)

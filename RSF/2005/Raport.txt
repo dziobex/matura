@@ -1,0 +1,10 @@
+1:
+najlepsza suma: 8
+2:
+dane5-1.txt: 173
+dane5-2.txt: 1207
+dane5-3.txt: 61727
+3:
+dane5-1.txt: -15, czas: 0 milisec
+dane5-2.txt: -18, czas: 0 milisec
+dane5-3.txt: 22, czas: 11 milisec

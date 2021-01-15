@@ -1,0 +1,9 @@
+1:
+liczba liczb, w ktorych liczba 0 jest wieksza od liczby 1: 441
+2:
+liczba liczb skaladajacych sie z dwoch blokow  (0 i 1): 44
+3:
+max blok: 10
+liczby z max blokiem:
+1001010001000000000011001
+001010000000000

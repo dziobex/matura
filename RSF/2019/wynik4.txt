@@ -1,0 +1,7 @@
+1:
+liczba dzialek porosnietych w >=70% trawa: 5
+2:
+Dzialki: 14 & 39
+3:
+max dlugosc kwadratu: 12
+dzialki, na ktorych mozna wytyczyc taki kwadrat: 28, 32, 45
